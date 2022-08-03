@@ -4,7 +4,7 @@ using namespace std;
 //Declaring the function sum
 int sum(int,int);
 
-int main(){
+int main(){ 
    int x, y;
    cout<<"enter first number: ";
    cin>> x;
